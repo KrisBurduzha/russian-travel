@@ -1,0 +1,15 @@
+.footer__nav {
+  margin: 0;
+  padding: 0;
+}
+
+@media screen and (max-width: 320px) {
+  .footer__nav {
+      margin: 0 0 16px;
+  }
+}
+@media screen and (max-width: 768px) {
+  .footer__nav {
+      margin: 0 0 16px;
+  }
+}
