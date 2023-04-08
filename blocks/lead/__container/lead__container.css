@@ -1,20 +1,7 @@
 .lead__container {
-  max-width: 984px;
-  margin: 0 auto;
+  margin: 0;
+  padding: 0;
 }
 
-@media screen and (max-width: 1024px) {
-  .lead__container {
-      max-width: calc(100% - 96px);
-
-  }
-}
-
-@media screen and (max-width: 768px) {
-  .lead__container {
-      max-width: 100%;
-
-  }
-}
 
 
